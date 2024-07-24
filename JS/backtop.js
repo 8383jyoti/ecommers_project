@@ -1,4 +1,4 @@
-function backTop() {
+ function backTop() {
     console.log("hello");
     window.scrollTo({ top: 0, behavior: "smooth" });
   
